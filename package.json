@@ -17,7 +17,7 @@
   },
   "homepage": "https://gitlab.com/amiechen/codrops-library#README",
   "devDependencies": {
-    "tailwindcss": "^0.6.4"
+    "tailwindcss": "^1.4.6"
   },
   "dependencies": {
     "animejs": "^2.2.0",
