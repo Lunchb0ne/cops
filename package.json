@@ -20,7 +20,7 @@
     "tailwindcss": "^0.6.4"
   },
   "dependencies": {
-    "animejs": "^2.2.0",
+    "animejs": "^3.2.0",
     "imagesloaded": "^4.1.4",
     "tippy.js": "^6.2.3"
   }
